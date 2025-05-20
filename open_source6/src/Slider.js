@@ -34,7 +34,7 @@ function Slider(){
 		return(() => {
 			// console.log("unmount or update");
 
-			window.removeEventListener("resize", resizeHandler);
+			// window.removeEventListener("resize", resizeHandler);
 		});
 	});
 
